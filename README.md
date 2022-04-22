@@ -6,9 +6,7 @@ Once the payment is checked, there are two buttons to choose two snack options.
 When selecting a button, the vending machine dispenses the correct snack.
 If one were to run out of money, the vending machine also has money refilling station.
 
-
-![video](https://user-images.githubusercontent.com/73623800/164793670-4bd60b92-b692-418e-8b42-0733136b592f.MP4)
-
+[![vending_machine](https://i.ytimg.com/vi/VVxZR4KojoM/hqdefault.jpg)](https://www.youtube.com/watch?v=VVxZR4KojoM "vending_machine")
 
 ## Parts list
 These are the parts list that does not include the physical structure of the vending machine
