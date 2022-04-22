@@ -7,6 +7,7 @@ When selecting a button, the vending machine dispenses the correct snack.
 If one were to run out of money, the vending machine also has money refilling station.
 
 Click on this image to watch the linked youtube video
+
 [![vending_machine](https://i.ytimg.com/vi/VVxZR4KojoM/hqdefault.jpg)](https://www.youtube.com/watch?v=VVxZR4KojoM "vending_machine")
 
 ## Parts list
