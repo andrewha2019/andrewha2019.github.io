@@ -8,7 +8,7 @@ If one were to run out of money, the vending machine also has money refilling st
 
 Click on this image to watch the linked youtube video
 
-[![vending_machine](https://i.ytimg.com/vi/VVxZR4KojoM/hqdefault.jpg)](https://www.youtube.com/watch?v=VVxZR4KojoM "vending_machine")
+![image](https://user-images.githubusercontent.com/73623800/164869080-6708ab5e-2c23-476d-88f8-be2f271363bf.png)
 
 ## Parts list
 These are the parts list that does not include the physical structure of the vending machine
@@ -39,7 +39,7 @@ These are the parts list that does not include the physical structure of the ven
 
 ## Schematic
 Here is the schematic, or the pinouts used for the vending machine system.
-![image](https://user-images.githubusercontent.com/73623800/164868867-505e5614-c23f-4392-98b7-97ca72f2f077.png)
+
 
 ## Instruction of assembly
 
@@ -59,8 +59,9 @@ Here is the schematic, or the pinouts used for the vending machine system.
 ![image](https://user-images.githubusercontent.com/73623800/164793741-7091be03-7688-4701-8d1b-b34538eb9c3a.png)
 
 ## Vending Machine flow chart
-![image](https://user-images.githubusercontent.com/73623800/164868720-432883c2-7240-46ca-81fb-5fe7dd3b3e2e.png)
-![image](https://user-images.githubusercontent.com/73623800/164868789-2bf13da0-56c2-4acd-8f2c-d4712fd14c25.png)
+![payment](https://user-images.githubusercontent.com/73623800/164869305-3bbfd0bb-578b-49e8-82cc-1e81a9796cae.jpg)
+![locking_system](https://user-images.githubusercontent.com/73623800/164869424-9b42e816-ebef-442e-bce8-85879c763b42.jpg)
+
 
 ## Code
 ```
