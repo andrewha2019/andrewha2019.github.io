@@ -7,8 +7,8 @@ When selecting a button, the vending machine dispenses the correct snack.
 If one were to run out of money, the vending machine also has money refilling station.
 
 Click on this image to watch the linked youtube video
+[![vending_machine](https://i.ytimg.com/vi/VVxZR4KojoM/hqdefault.jpg)](https://www.youtube.com/watch?v=VVxZR4KojoM "vending_machine")
 
-![image](https://user-images.githubusercontent.com/73623800/164869080-6708ab5e-2c23-476d-88f8-be2f271363bf.png)
 
 ## Parts list
 These are the parts list that does not include the physical structure of the vending machine
@@ -39,20 +39,19 @@ These are the parts list that does not include the physical structure of the ven
 
 ## Schematic
 Here is the schematic, or the pinouts used for the vending machine system.
-
-
+![image](https://user-images.githubusercontent.com/73623800/164869080-6708ab5e-2c23-476d-88f8-be2f271363bf.png)
 ## Instruction of assembly
 
 1. 3D print a coil that will attach seemlessly to the motor. Test with prototyping code so that the motor does spin.
 ![image](https://user-images.githubusercontent.com/73623800/164792408-b60d5355-a712-43ab-8e37-cb3a4a60765a.png)
 2. Drill,screw, and assemble base vending machine structure. As long as it has an area to hold the snacks and for the coil sit on, that is all you need
-![image](https://user-images.githubusercontent.com/73623800/164868083-f3de88c7-5607-4656-9d85-b4c0c726ceda.png)
+![step3](https://user-images.githubusercontent.com/73623800/164872584-70e9e80a-1f1b-48ba-a51f-ad3ebf0a9233.jpg)
 3. Have small hole on the bottom of the vending machine structure for the servo to sit in
-![image](https://user-images.githubusercontent.com/73623800/164868475-d5a3f4b1-7f00-4133-aa3e-8f8b5436ac91.png)
+![servo](https://user-images.githubusercontent.com/73623800/164872608-1474ebd1-3d27-4a4a-b8a7-da38e94ee73a.jpg)
 4. laser cut the door frame with holes to put the buttons RFID and lcd screen. Also there should be windows for people to see inside and snacks
 ![image](https://user-images.githubusercontent.com/73623800/164793038-f88572cd-73a6-4825-bf02-d72ad2442c72.png)
 5. Attach the acrylic, the door hinge, and the servo to lock the door.
-![image](https://user-images.githubusercontent.com/73623800/164868596-ff10616b-2a11-4b1a-a040-69f449fe6480.png)
+![step5](https://user-images.githubusercontent.com/73623800/164872631-1e02f117-939d-4242-912e-3167653d987c.jpg)
 6. Build the embedded system by following the pinouts of the schematic and wire them. Attach all the components to the correct locations
 ![image](https://user-images.githubusercontent.com/73623800/164793506-90f718ae-b67d-4d10-a6c1-47f44b1e2668.png)
 7. Build the refilling station system so it holds rfid and leds
