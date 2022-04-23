@@ -22,7 +22,7 @@ These are the parts list that does not include the physical structure of the ven
 * 1 uLCD-144-G2 screen
 * 2 LM7805 voltage regulator
 * 2 10uF capacitors
-* 2 100nF capacitors
+* 2 100uF capacitors
 * 2 PNP BJTs
 * 1 Green LED
 * 1 Red LED
@@ -39,22 +39,28 @@ These are the parts list that does not include the physical structure of the ven
 
 ## Schematic
 Here is the schematic, or the pinouts used for the vending machine system.
-![image](https://user-images.githubusercontent.com/73623800/164782376-d0e37d52-d592-443e-a552-52997899a3ee.png)
+![image](https://user-images.githubusercontent.com/73623800/164868867-505e5614-c23f-4392-98b7-97ca72f2f077.png)
 
 ## Instruction of assembly
 
 1. 3D print a coil that will attach seemlessly to the motor. Test with prototyping code so that the motor does spin.
 ![image](https://user-images.githubusercontent.com/73623800/164792408-b60d5355-a712-43ab-8e37-cb3a4a60765a.png)
-2. Drill and assemble base vending machine structure. As long as it has an area to hold the snacks and for the coil sit on, that is all you need.
+2. Drill,screw, and assemble base vending machine structure. As long as it has an area to hold the snacks and for the coil sit on, that is all you need
+![image](https://user-images.githubusercontent.com/73623800/164868083-f3de88c7-5607-4656-9d85-b4c0c726ceda.png)
 3. Have small hole on the bottom of the vending machine structure for the servo to sit in
+![image](https://user-images.githubusercontent.com/73623800/164868475-d5a3f4b1-7f00-4133-aa3e-8f8b5436ac91.png)
 4. laser cut the door frame with holes to put the buttons RFID and lcd screen. Also there should be windows for people to see inside and snacks
 ![image](https://user-images.githubusercontent.com/73623800/164793038-f88572cd-73a6-4825-bf02-d72ad2442c72.png)
 5. Attach the acrylic, the door hinge, and the servo to lock the door.
+![image](https://user-images.githubusercontent.com/73623800/164868596-ff10616b-2a11-4b1a-a040-69f449fe6480.png)
 6. Build the embedded system by following the pinouts of the schematic and wire them. Attach all the components to the correct locations
 ![image](https://user-images.githubusercontent.com/73623800/164793506-90f718ae-b67d-4d10-a6c1-47f44b1e2668.png)
 7. Build the refilling station system so it holds rfid and leds
 ![image](https://user-images.githubusercontent.com/73623800/164793741-7091be03-7688-4701-8d1b-b34538eb9c3a.png)
-10. Done
+
+## Vending Machine flow chart
+![image](https://user-images.githubusercontent.com/73623800/164868720-432883c2-7240-46ca-81fb-5fe7dd3b3e2e.png)
+![image](https://user-images.githubusercontent.com/73623800/164868789-2bf13da0-56c2-4acd-8f2c-d4712fd14c25.png)
 
 ## Code
 ```
