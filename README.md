@@ -1,5 +1,5 @@
 
-### Introduction:
+## Introduction:
 
 For our 4180 project, we decided to create a vending machine. The vending machine has the ability to check for payment
 Once the payment is checked, there are two buttons to choose two snack options.
