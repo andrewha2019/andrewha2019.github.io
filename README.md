@@ -7,6 +7,7 @@ When selecting a button, the vending machine dispenses the correct snack.
 If one were to run out of money, the vending machine also has money refilling station.
 
 Click on this image to watch the linked youtube video
+
 [![vending_machine](https://i.ytimg.com/vi/VVxZR4KojoM/hqdefault.jpg)](https://www.youtube.com/watch?v=VVxZR4KojoM "vending_machine")
 
 
@@ -39,7 +40,8 @@ These are the parts list that does not include the physical structure of the ven
 
 ## Schematic
 Here is the schematic, or the pinouts used for the vending machine system.
-![image](https://user-images.githubusercontent.com/73623800/164869080-6708ab5e-2c23-476d-88f8-be2f271363bf.png)
+![image](https://user-images.githubusercontent.com/73623800/166115340-0c55759e-5d2f-463f-aa26-50428e92b78d.png)
+
 ## Instruction of assembly
 
 1. 3D print a coil that will attach seemlessly to the motor. Test with prototyping code so that the motor does spin.
