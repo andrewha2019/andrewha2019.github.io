@@ -24,12 +24,13 @@ These are the parts list that does not include the physical structure of the ven
 * 2 LM7805 voltage regulator
 * 2 10uF capacitors
 * 2 100uF capacitors
-* 2 PNP BJTs
+* 2 NPN BJTs
 * 1 Green LED
 * 1 Red LED
 * mbed
 * barrel jack
-* 2 resistors
+* 2 10k resistors
+* 2 1k resistors
 
 ## Structure Parts List
 * Wood to build the box
